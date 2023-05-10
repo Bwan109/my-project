@@ -1,6 +1,9 @@
 F1
+<<<<<<< HEAD
 F2
 F3
+=======
+>>>>>>> fa86187 (F1)
 
 ##### build the project
 
